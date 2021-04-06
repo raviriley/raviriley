@@ -1,8 +1,7 @@
-### Hi there 👋
+The days with hundreds of commits are because of an auto-backup repo part of the CS course I'm currently taking.
+
 
 <!--
-**raviriley/raviriley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
