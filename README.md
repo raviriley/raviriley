@@ -1,4 +1,4 @@
-The days with hundreds of commits are because of an auto-backup repo part of the CS course I'm currently taking.
+The days with hundreds of commits are because of an auto-backup repo part of the CS course I took in spring 2021.
 
 
 <!--
