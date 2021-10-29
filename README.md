@@ -9,9 +9,7 @@ I'm taking a gap year from studying electrical engineering & computer science (E
 
 ---
 
-<!-- <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=raviriley&theme=dark&count_private=true&include_all_commits=true&hide=issues,contribs&show_icons=true&custom_title=GitHub stats" alt="Ravi's GitHub stats">
- -->
-**Technologies**:
+<!-- **Technologies**:
 
 <details>
   <summary><b>Backend</b></summary>
@@ -51,7 +49,7 @@ I'm taking a gap year from studying electrical engineering & computer science (E
   Google Cloud, AWS
   
 </details>
-
+ -->
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=raviriley.profile) -->
 
