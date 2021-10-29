@@ -1,13 +1,16 @@
 # Ravi
 
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=raviriley&theme=dark&count_private=true&include_all_commits=true&hide=issues,contribs&show_icons=true&custom_title=GitHub stats" alt="Ravi's GitHub stats">
+
+
 Right now, I'm writing code and doing marketing as a founding engineer at [simplify.jobs (YC W21)](https://simplify.jobs/). 
 
 I'm taking a gap year from studying electrical engineering & computer science (EECS) at UC Berkeley 🐻
 
 ---
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=raviriley&theme=dark&count_private=true&include_all_commits=true&hide=issues,contribs&show_icons=true&custom_title=GitHub stats" alt="Ravi's GitHub stats">
-
+<!-- <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=raviriley&theme=dark&count_private=true&include_all_commits=true&hide=issues,contribs&show_icons=true&custom_title=GitHub stats" alt="Ravi's GitHub stats">
+ -->
 **Technologies**:
 
 <details>
