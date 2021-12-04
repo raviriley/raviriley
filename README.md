@@ -5,7 +5,7 @@
 
 Right now, I'm writing code and doing marketing as a founding engineer at [simplify.jobs (YC W21)](https://simplify.jobs/). 
 
-I'm taking a gap year from studying electrical engineering & computer science (EECS) at UC Berkeley 🐻
+I'm taking time off from studying electrical engineering & computer science (EECS) at UC Berkeley 🐻
 
 ---
 
