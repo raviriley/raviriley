@@ -5,7 +5,7 @@
 
 Right now, I'm writing code at a DeFi startup. 
 
-I'm taking time off from studying electrical engineering & computer science (EECS) at UC Berkeley 🐻
+I'm wrapping up a gap year from studying electrical engineering & computer science (EECS) at UC Berkeley 🐻
 
 ---
 
