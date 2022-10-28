@@ -1,13 +1,10 @@
 # Ravi
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=raviriley&theme=dark&count_private=true&include_all_commits=true&hide=issues,contribs&show_icons=true&custom_title=GitHub stats" alt="Ravi's GitHub stats">
+Right now, I'm writing code at a DeFi startup & studying EECS at UC Berkeley 🐻
 
+previously, founding engineer at [Simplify.jobs](https://simplify.jobs/) (YC W21)
 
-Right now, I'm writing code at a DeFi startup. 
-
-I'm wrapping up a gap year from studying electrical engineering & computer science (EECS) at UC Berkeley 🐻
-
----
+<!-- --- -->
 
 <!-- **Technologies**:
 
