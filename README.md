@@ -2,8 +2,6 @@
 
 Right now, I'm writing code at [@BerkeleyBlockchain](https://github.com/BerkeleyBlockchain) & studying EECS at UC Berkeley 🐻
 
-previously, founding engineer at [Simplify.jobs](https://simplify.jobs/) (YC W21)
-
 <!-- --- -->
 
 <!-- **Technologies**:
