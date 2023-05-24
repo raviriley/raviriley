@@ -1,6 +1,6 @@
 # Ravi
 
-Right now, I'm writing code at [@BerkeleyBlockchain](https://github.com/BerkeleyBlockchain) & studying EECS at UC Berkeley 🐻
+Right now, I'm building software at [@BerkeleyBlockchain](https://github.com/BerkeleyBlockchain) & studying EECS at UC Berkeley 🐻
 
 <!-- --- -->
 
